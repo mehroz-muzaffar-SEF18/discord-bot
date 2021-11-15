@@ -3,6 +3,7 @@ import sys
 import os
 import logging
 logging.basicConfig(level=logging.DEBUG)
+#nice one
 
 logging.debug('Starting Application')
 
